@@ -5,3 +5,6 @@ Bla bla...
 
 ## Advanced
 Bla bla bla...
+
+## API documentation
+<iframe src="https://quadridoc.z6.web.core.windows.net/#/apiref?openapi=https://petstore.swagger.io/v2/swagger.json"></iframe> 
